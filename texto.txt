@@ -1,0 +1,5 @@
+
+Texto:
+	Nome_item_um
+	Nome_item_dois
+	Rotina_numero_tres
